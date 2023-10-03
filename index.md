@@ -13,7 +13,7 @@ I am a BEng Student at Beijing Institute of Technology
 
 ## News
 
-- **[May. 2022]** Our paper about individual time trial strategy was designated as Finalist in 2022 Mathematical Contest in Modeling.
+- **[May. 2022]** Our paper about a individual time trial strategy was designated as Finalist in 2022 Mathematical Contest in Modeling.
 
 
 {% include_relative _includes/publications.md %}
