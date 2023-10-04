@@ -1,16 +1,37 @@
-## Services
+## Honors
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<h4 style="margin:0 10px 0;">Scholarships</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html"><autocolor>China National Scholarship 2020-2021</autocolor></a></li>
+      <div class="links">
+      {% if link.pdf %} 
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>
+  <li><a href="http://iccv2021.thecvf.com/"><autocolor>Xiao Mi's Scholarship 2021-2022</autocolor></a></li>
+  <div class="links">
+      {% if link.pdf %} 
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>
+  <li><a href="https://xxgk.bit.edu.cn/xsglfwxx/xsjlcfbf/a190714.htm"><autocolor>BIT Scholarship 2020-2023</autocolor></a></li>
+      {% if link.pdf %} 
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+    </div>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Cultural and sports activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.bjcac.org.cn/"><autocolor>First prize of Tai Chi in Capital Higher Education Martial Arts Competition 2021</autocolor></a></li>
+        {% if link.pdf %} 
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+  <li><a href="https://www.wsjbs.com/"><autocolor>First prize of Tai Chi in Beijing International Martial Arts Invitational Competition 2022</autocolor></a></li>
+        {% if link.pdf %} 
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
 </ul>
