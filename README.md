@@ -1,7 +1,7 @@
 # The Minimal Light Theme
 
  
-*This is the source code of my homepage. I build this website using [minimal](https://github.com/orderedlist/minimal). and based on [liu's project](https://github.com/yaoyao-liu/yaoyao-liu.github.io)*
+*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal) and [liu's project](https://github.com/yaoyao-liu/yaoyao-liu.github.io)*
 
 *Feel free to use and share the source code anywhere you like.*
 
