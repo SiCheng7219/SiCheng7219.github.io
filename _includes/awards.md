@@ -23,7 +23,7 @@
       <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.source %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Source</a>
+      <a href="[{{ link.code }}](https://www.comap-math.com/mcm/2022Certs/2203036.pd)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Source</a>
       {% endif %}
     </div>
   </div>

@@ -12,6 +12,6 @@ I am a BEng Student at Beijing Institute of Technology
 - **Machine Learning:** complex systems, robustness evaluation, optimization
 
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/awards.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/honors.md %}
