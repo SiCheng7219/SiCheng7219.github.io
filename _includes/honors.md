@@ -1,4 +1,4 @@
-## Honors
+## Honours
 
 
 <h4 style="margin:0 10px 0;">Scholarships</h4>
@@ -11,8 +11,6 @@
 
 
   <li><a href="https://xxgk.bit.edu.cn/xsglfwxx/xsjlcfbf/a190714.htm"><autocolor>BIT Scholarship 2020-2023</autocolor></a><a href="/assets/supporting_files/BITjiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
-
-
 
 </ul>
 
@@ -27,8 +25,6 @@
 
 </ul>
 
-</ul>
-
 <h4 style="margin:0 10px 0;">Internship </h4>
 
 <ul style="margin:0 0 20px;">
@@ -38,7 +34,6 @@
 
 </ul>
 
-</ul>
 
 <h4 style="margin:0 10px 0;">Sports</h4>
 
