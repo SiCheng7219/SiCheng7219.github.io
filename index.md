@@ -10,6 +10,8 @@ I'm currently working on my graduation thesis, focusing on the **Robot Operating
 
 {% include_relative _includes/articles.md %}
 
+The articles above were written during my participation in the Mathematical Contest in Modeling. In three competitions, I served as the leader for a group of three, responsible for modeling and paper writing. Through this experience, I developed the ability to analyse academic problems in group work, scan previous research, and use basic coding approaches to experiment.\
+
 {% include_relative _includes/academic_performace.md %}
 
 {% include_relative _includes/honours.md %}
