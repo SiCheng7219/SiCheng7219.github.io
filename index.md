@@ -8,7 +8,7 @@ I'm a Bachelor of Engineering (BEng) student at [Beijing Institute of Technology
 \
 I am currently working on my graduation thesis, focusing on the **Robot Operating System (ROS)** and doing research on **robot control and multi-agent decision-making**. Additionally, my research interests extend to **localization**, **complex systems**, and **optimization**.
 
-I am scheduled to graduate from BIT in **June 2024**. I am actively seeking opportunities to pursue an **MPhil or MRes program** and I'm ready to participate in a research project starting in **July 2024**.
+I am scheduled to graduate from BIT in **June 2024**. I am actively seeking opportunities to pursue an **MPhil or MRes program** and I'm ready to participate in a research project starting in **July 2024**.  
 
 {% include_relative _includes/articles.md %}
 
