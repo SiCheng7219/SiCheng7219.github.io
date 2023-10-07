@@ -38,10 +38,10 @@
 <h4 style="margin:0 10px 0;">Sports</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.bjcac.org.cn/"><autocolor>First prize of Tai Chi in Capital Higher Education Martial Arts Competition 2021</autocolor></a><a href="/assets/supporting_files/2021TaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+  <li><a href="https://www.bjcac.org.cn/"><autocolor>First prize of Tai Chi in Capital Higher Education Martial Arts Competition 2021<br></autocolor></a><a href="/assets/supporting_files/2021TaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
 
-  <li><a href="https://www.wsjbs.com/"><autocolor>First prize of Tai Chi in Beijing International Martial Arts Invitational Competition 2022</autocolor></a><a href="/assets/supporting_files/BEIJINGTaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+  <li><a href="https://www.wsjbs.com/"><autocolor>First prize of Tai Chi in Beijing International Martial Arts Invitational Competition 2022<br></autocolor></a><a href="/assets/supporting_files/BEIJINGTaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
 
-  <li><a href="https://www.bjcac.org.cn/"><autocolor>First prize of Tai Chi in Capital Higher Education Martial Arts Competition 2023</autocolor></a><a href="/assets/supporting_files/2023TaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+  <li><a href="https://www.bjcac.org.cn/"><autocolor>First prize of Tai Chi in Capital Higher Education Martial Arts Competition 2023<br></autocolor></a><a href="/assets/supporting_files/2023TaiChi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
 
 </ul>
