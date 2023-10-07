@@ -4,11 +4,11 @@ layout: homepage
 
 ## Short Bio
 
-I am a BEng Student at [Beijing Institute of Technology](https://english.bit.edu.cn/) (BIT) where I got an excellent fundamental education of automation and modern control theory with **ranking 5 out of 196** peer students. With a huge interest in practicing, I participated in many competitions and ended up in great results. Besides, I won various of scholarships and honours which can prove my outstanding academic performances. I will **graduate from BIT in June of 2024**. Currently, I’m looking for **Mphil** or **MRes** and ready to take part in a research project in **July of 2024**.\
+I'm a Bachelor of Engineering (BEng) student at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), where I have had the privilege of receiving an outstanding foundational education in automation and modern control theory. My academic achievements include an impressive **GPA of 3.8**, ranking **5th out of 196 fellow students**, and earning numerous awards in competitions, as well as multiple scholarships and honors.\
 \
-My current research (graduation thesis) lies in the **robot operating system (ROS)** – with special focus on **robots controlling** and **multi-agent decision-making**. Furthermore, my research interests include **localization, complex systems and optimization**.  
+I am currently working on my graduation thesis, focusing on the **Robot Operating System (ROS)** and doing research on **robot control and multi-agent decision-making**. Additionally, my research interests extend to **localization**, **complex systems**, and **optimization**.
 
-
+I am scheduled to graduate from BIT in **June 2024**. I am actively seeking opportunities to pursue an **MPhil or MRes program** and I'm ready to participate in a research project starting in **July 2024**.
 
 {% include_relative _includes/articles.md %}
 

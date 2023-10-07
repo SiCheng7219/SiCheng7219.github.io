@@ -35,7 +35,7 @@
         <a herf="http://www.mcm.edu.cn/">Seconed Prize in Beijing Division of the Contemporary Undergraduate Mathematical Contest in Modeling 2022</a>
       </div>
     <div class="links">
-      <a href="/assets/articles/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="/assets/articles/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(zh-cn)</a>
       <a href="/assets/supporting_files/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supporting Files</a>
     </div>
   </div>
@@ -55,7 +55,7 @@
         <a herf="http://www.hzbmmc.com/">Winners in Hua Zhong Bei Mathematical Contest in Modeling 2022</a>
       </div>
     <div class="links">
-      <a href="/assets/articles/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="/assets/articles/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(zh-cn)</a>
       <a href="/assets/supporting_files/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supporting Files</a>
     </div>
   </div>
