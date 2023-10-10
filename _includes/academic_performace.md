@@ -2,7 +2,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>
-    <a href="/assets/supporting_files/chengjidan.pdf"><autocolor><b>GPA: </b>3.8</autocolor></a>
+    <a><autocolor><b>GPA: </b>3.8</autocolor></a>
   </li>      
 
 
