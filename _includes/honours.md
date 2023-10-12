@@ -7,10 +7,10 @@
   <li><a href="http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html"><autocolor>China National Scholarship 2020-2021</autocolor></a>     <a href="/assets/supporting_files/guojiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>      
 
 
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>Xiao Mi's Scholarship 2021-2022</autocolor></a><a href="/assets/supporting_files/shehuijiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+  <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>Xiao Mi's Scholarship 2021-2022</autocolor></a><a href="/assets/supporting_files/shehuijiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li> -->
 
 
-  <li><a href="https://xxgk.bit.edu.cn/xsglfwxx/xsjlcfbf/a190714.htm"><autocolor>BIT Scholarship 2020-2023</autocolor></a><a href="/assets/supporting_files/BITjiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+  <li><a href="https://xxgk.bit.edu.cn/xsglfwxx/xsjlcfbf/a190714.htm"><autocolor>BIT Scholarship 2020-2022</autocolor></a><a href="/assets/supporting_files/BITjiang.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
 
 </ul>
 
