@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a Bachelor of Engineering (B.Eng.) student at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), where I have had the privilege of receiving an outstanding foundational education in automation and modern control theory. My academic achievements include an impressive **GPA of 3.8**, ranking **5th out of 196 fellow students**, and earning numerous awards in competitions, as well as multiple scholarships and honours.\
 \
-I'm currently working on my graduation thesis, focusing on the **Robot Operating System (ROS)** and doing research on **robot control and multi-agent decision-making**. Additionally, my research interests extend to **localization**, **complex systems**, and **optimization**. Being scheduled to graduate from BIT in **June 2024**, I'm actively seeking opportunities to pursue an **MPhil or MRes program** and I'm ready to participate in a research project starting in **July 2024**.  
+I'm currently working on my graduation thesis, doing research on **robot control and multi-agent decision-making** based on the **Robot Operating System (ROS)**. Additionally, my research interests extend to **localization**, **complex systems**, and **optimization**. Being scheduled to graduate from BIT in **June 2024**, I'm actively seeking opportunities to pursue an **MPhil or MRes program** and I'm ready to participate in a research project starting in **July 2024**.  
 
 {% include_relative _includes/articles.md %}
 
@@ -20,3 +20,6 @@ I'm currently working on my graduation thesis, focusing on the **Robot Operating
 ## Contact
 - **Email:** Sicheng-7219@outlook.com
 - **Phone:** (+86)17310427219
+
+*You can find the source code of this website at [here](git@github.com:SiCheng7219/SiCheng7219.github.io.git)*
+*Feel free to use it yourself or share it with anyone*
