@@ -22,5 +22,5 @@ I'm currently working on my graduation thesis, doing research on **robot control
 - **Phone:** (+86)17310427219
 
 #### *One More Thing...*
-&emsp;*You can find the source code of this website at [here](git@github.com:SiCheng7219/SiCheng7219.github.io.git).*  
+&emsp;*You can find the source code of this website at [here](https://github.com/SiCheng7219/SiCheng7219.github.io.git).*  
 &emsp;*Feel free to use it yourself or share it with anyone.*
