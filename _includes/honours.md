@@ -21,6 +21,10 @@
 
   <li><a href="http://www.cmathc.cn/"><autocolor>First prize in Beijing Division of The Chinese Mathematics Competitions 2021</autocolor></a><a href="/assets/supporting_files/BeijingMathFirst.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
 
+  <li><a><autocolor>Pacemaker to Merit Student of 2020-2021</autocolor></a><a href="/assets/supporting_files/Pacemaker to Merit Student.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+
+  <li><a><autocolor>Merit Student of 2021-2022</autocolor></a><a href="/assets/supporting_files/Merit Student.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:13px;">&emsp;View supporting files</a>  </li>
+
 
 
 </ul>
