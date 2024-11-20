@@ -32,7 +32,7 @@
       <div class="title"><a>UAV passive positioning formation control based on simulated annealing wolf packs model</a></div>
       <div class="author">Sicheng Jiang, Zimo Wang, Meitong Li</div>
       <div class="periodical">
-        <a href="http://en.mcm.edu.cn/"><b>Seconed Prize</b> in Beijing Division of the Contemporary Undergraduate Mathematical Contest in Modeling 2022</a>
+        <a href="http://en.mcm.edu.cn/"><b>Second Prize</b> in Beijing Division of the Contemporary Undergraduate Mathematical Contest in Modeling 2022</a>
       </div>
     <div class="links">
       <a href="/assets/articles/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(zh-cn)</a>
