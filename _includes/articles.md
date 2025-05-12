@@ -7,6 +7,25 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="/assets/img/TS-VAT.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a>TS-VAT: Efficient Deployment of Teacher-Student Framework in Visual Active Tracking</a></div>
+      <div class="author">Sicheng Jiang</div>
+      <div class="periodical">
+        <a>International Symposium on Computational Intelligence and Industrial Applications. Singapore: Springer Nature Singapore, 2024.</a>
+      </div>
+    <div class="links">
+      <a href="https://link.springer.com/chapter/10.1007/978-981-96-4756-9_13" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="/assets/img/MCMwork.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -17,7 +36,7 @@
       </div>
     <div class="links">
       <a href="/assets/articles/MCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supporting Files</a>
+      <a href="https://www.comap-math.com/mcm/2022Certs/2203036.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Award</a>
     </div>
   </div>
 </div>
@@ -36,7 +55,7 @@
       </div>
     <div class="links">
       <a href="/assets/articles/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(zh-cn)</a>
-      <a href="/assets/supporting_files/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supporting Files</a>
+      <a href="/assets/supporting_files/CNMCM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Award</a>
     </div>
   </div>
 </div>
@@ -56,7 +75,7 @@
       </div>
     <div class="links">
       <a href="/assets/articles/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(zh-cn)</a>
-      <a href="/assets/supporting_files/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supporting Files</a>
+      <a href="/assets/supporting_files/hzbmcm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Award</a>
     </div>
   </div>
 </div>

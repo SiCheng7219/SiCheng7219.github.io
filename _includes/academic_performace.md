@@ -13,7 +13,7 @@
 
 
   <li>
-    <a href="/assets/supporting_files/IELTS.pdf"><autocolor><b>IELTS: </b>7.0(6.0)</autocolor></a>
+    <a href="/assets/supporting_files/IELTS.pdf"><autocolor><b>IELTS: </b>7.0</autocolor></a>
   </li>     
 
 </ul>
